@@ -1,0 +1,299 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just narrative, or account of the man whose hands and legs rotted off, in the parish of Kings-Swinford, in Stafford-shire, where he died, June 21, 1677 carefully collected by Ja. Illingworth ...</title>
+            <author>Illingworth, James, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46056</idno>
+            <idno type="STC">Wing I50</idno>
+            <idno type="STC">ESTC R4924</idno>
+            <idno type="EEBO-CITATION">13201669</idno>
+            <idno type="OCLC">ocm 13201669</idno>
+            <idno type="VID">98458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46056)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98458)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 422:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just narrative, or account of the man whose hands and legs rotted off, in the parish of Kings-Swinford, in Stafford-shire, where he died, June 21, 1677 carefully collected by Ja. Illingworth ...</title>
+                  <author>Illingworth, James, d. 1693.</author>
+                  <author>Newey, Jonathan.</author>
+               </titleStmt>
+               <extent>[4], 12, [8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.C. for Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A discourse between John Duncalf and Jonathan Newey signed by the latter Aug. 17, 1677.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Duncalf, John, d. 1677.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98458:1" rendition="simple:additions"/>
+            <p>A Juſt NARRATIVE, OR, ACCOUNT Of the Man whoſe <hi>Hands</hi> and <hi>Legs rotted off:</hi> In the Pariſh of <hi>KINGS-SWINFORD,</hi> IN <hi>STAFFORD-SHIRE,</hi> Where he died, <hi>June</hi> 21. 1677.</p>
+            <p>Carefully Collected by <hi>JA. ILLINGWORTH,</hi> B. D. An Eye and Ear-Witneſs of moſt of the material Paſſages in it.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>A. C.</hi> for <hi>Henry Brome,</hi> at the Gun at the Weſt-end of St. <hi>Pauls,</hi> 1678.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:98458:2"/>
+            <pb facs="tcp:98458:2"/>
+            <head>To the Reverend S. FORD. D. D. Rector of <hi>Old-Swinford</hi> in <hi>Worceſterſhire.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>BEing importuned by divers (Gentlemen, Miniſters, and others of our Neigh<g ref="char:EOLhyphen"/>bourhood) to draw up a full <hi>Narrative</hi> and <hi>Account</hi> of that late <hi>ſad Providence</hi> (which hath filled the hearts and mouths of the Country round about us, the fame whereof is alſo ſpread into remote parts) I was at laſt prevailed with to endeavour their ſatisfaction: And the rather becauſe of a general <hi>rumour</hi> in the Country, <hi>that the man had declared ſe<g ref="char:EOLhyphen"/>veral things to me of near concernment to himſelf, which he concealed from all other Viſitants.</hi> That I might not therefore ſuffer ſuch Reports to paſs uncertain, nor be wanting in that which was by ſome urged as my duty; I did (by travelling, at ſeveral times, above <hi>ſixty miles</hi> in the parts adjacent) enquire in<g ref="char:EOLhyphen"/>to divers particular circumſtances, which I was not before fully clear in: and have now at laſt ſet all down in plain words (ſutable to ſuch an account) that the meaneſt concerned to
+<pb facs="tcp:98458:3"/>
+know and make good uſe of the providence, might at firſt reading clearly underſtand it.</p>
+            <p>Sir, That I addreſs this to you, is, that I may take an opportunity to make my hearty ac<g ref="char:EOLhyphen"/>knowledgments for your learned and uſeful <hi>Diſcourſes</hi> in the <hi>Pulpit</hi> upon this occaſion, to the general ſatisfaction of your Hearers; and I muſt in my own name, and many of theirs, intreat, you would make the ſubſtance of them more publick from the <hi>Preſs,</hi> that the <hi>Readers</hi> may learn not to be too <hi>cenſorious</hi> in things of this nature, nor yet to paſs by ſo ſignal a Pro<g ref="char:EOLhyphen"/>vidence without that juſt <hi>Obſervation</hi> it de<g ref="char:EOLhyphen"/>ſerves, and due <hi>reverence</hi> toward that <hi>God</hi> who <hi>is known by the Judgments which he executeth,</hi> as you have fully ſhewed us. I hope, Sir, I invite you to nothing, but what your own Judgment accounts worthy your labour; and I am confident it will be no mean addition to your former elaborate ſervices of God and his Church. In which that you may be long con<g ref="char:EOLhyphen"/>tinued for his Glory, and the good of his Peo<g ref="char:EOLhyphen"/>ple, ſhall be the hearty Prayer of (Reverend Sir)</p>
+            <closer>
+               <signed>Your moſt affectionate (though unworthy Friend) to honour and ſerve you, <hi>J. ILLINGWORTH.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:98458:3" rendition="simple:additions"/>
+            <head>A juſt <hi>Narrative</hi> or <hi>Account</hi> of the Man whoſe <hi>Hands</hi> and <hi>Legs Rotted off</hi> in the Pariſh of <hi>Kings-Swinford</hi> in <hi>Staf<g ref="char:EOLhyphen"/>fordſhire,</hi> where he Died, <hi>June 21. 1677.</hi>
+            </head>
+            <p>
+               <hi>RIchard Duncalf</hi> of <hi>Codſal</hi> Pariſh, not far from <hi>Wolverhampton,</hi> in the County of <hi>Stafford,</hi> dying many years ſince (and his Wife al<g ref="char:EOLhyphen"/>ſo) left behind them many Children, and but ſlender proviſion for them.</p>
+            <p>One of their Sons, <hi>John Duncalf,</hi> bound himſelf an Apprentice to <hi>Thomas Gibbons</hi> of <hi>Kings-Swinford</hi> in the ſame County, Wheelwright. When he had ſerved his Maſter two years and ſeven months (or thereabouts) he and his fellow Apprentice ſtealing from their Maſter a conſiderable quantity of Iron, de<g ref="char:EOLhyphen"/>livered it to a third perſon, who promiſed to conceal it from their Maſter: but being all brought before the Right Honorable the Lord <hi>Ward</hi> of <hi>Dudley-Caſtle,</hi> up<g ref="char:EOLhyphen"/>on examination ſeverally, they accuſed each other, and confeſſed the whole: By which means there was found concealed (as <hi>Tho. Gibbons</hi> ſaith) 26 pound of old Iron, beſides more that was wrought up, new Waggon-Nails, ends of Bars, <hi>&amp;c.</hi> Upon their Con<g ref="char:EOLhyphen"/>feſſion the Lord <hi>Ward</hi> ſent them to the Houſe of Correction, about <hi>October</hi> 14. 1675. But the other Apprentice being dangerouſly ſick there, and this
+<pb n="2" facs="tcp:98458:4"/>
+               <hi>John Duncalf</hi> pretending, at leaſt, to be ſick alſo, they two were ſet at liberty the week following. After which time this ſaid <hi>John Duncalf</hi> refuſed to come again to his former ſervice (ſaying he would never ſet his feet in <hi>Kings-Swinford</hi> whilſt he lived)<note place="margin">☞</note> but offering and engaging to pay to his Ma<g ref="char:EOLhyphen"/>ſter forty ſhillings, his Maſter and he gave Releaſes to each other: by which means this young man (who was then full twenty years of age, and at more li<g ref="char:EOLhyphen"/>berty than formerly whilſt an Apprentice) gave him<g ref="char:EOLhyphen"/>ſelf up to licentious courſes, <hi>viz.</hi> (as he confeſſed to me, <hi>April</hi> 26. 1677) to <hi>Idleneſs, Stealing, Lying, Curſing, Swearing, Drunkenneſs, and <g ref="char:V">Ʋ</g>ncleanneſs with Women. Which laſt,</hi> he ſaid, <hi>was not by committing actual Fornication or Adultery, but in the thoughts of his heart, and by laſcivious words, and geſtures, whereby he had endeavoured to tempt them to lewdneſs in divers places.</hi> I muſt therefore here clear my ſelf and him from an unjuſt rumour and report common (as I am infor<g ref="char:EOLhyphen"/>med) in the Country hereabouts, which many peo<g ref="char:EOLhyphen"/>ple yet believe, <hi>viz. [That he confeſſed ſome things to me which he deſired might be concealed whilſt he lived,</hi> as, <hi>that he had committed a Rape upon a young perſon, and afterward murdered her: That he was guilty of Bug<g ref="char:EOLhyphen"/>gery, or lying with Beaſts,</hi> &amp;c.] I do therefore openly declare to all; that theſe were groundleſs rumors or reports, and I do aſſure them he never deſired me to conceal any thing he ſaid or confeſſed to me, nor did he ever ſpeak to me of any ſuch things as theſe which ſome have reported and others believed. But the faults above-mentioned ſeemed to lie as an hea<g ref="char:EOLhyphen"/>vy burden upon his Conſcience, when he judged Gods hand was ſeverely chaſtizing him for them, and all his other impieties; among which his conſtant <hi>profaneſs</hi> had not been the leaſt, in that, <hi>although he could both read and write, yet he had</hi> (as he ſaid to me)
+<pb n="3" facs="tcp:98458:4" rendition="simple:additions"/>
+               <hi>a long time neglected all manner of Service and Worſhip of God, as well on the Lords day as other days, and that both in private and publick.</hi> It is ſaid, he <hi>ſtole</hi> many things to ſupply his growing neceſſities (which his idleneſs and intemperance brought upon him) chief<g ref="char:EOLhyphen"/>ly <hi>Bibles;</hi> and the rather becauſe they would ſooneſt be bought by others. About <hi>January</hi> the 6th. 1676/7 coming to the houſe of <hi>Humphrey Babb,</hi> living at the <hi>Grange-mill,</hi> about three miles from <hi>Wolverhampton,</hi> he begged of <hi>Margaret,</hi> the ſaid <hi>Humphrey</hi>'s Wife, Victuals and ſmall drink. The Woman having for<g ref="char:EOLhyphen"/>merly known him, and compaſſionating his preſent condition, gave him freely ſuch as ſhe had, but whilſt ſhe ſtooped to draw drink for him, he <hi>ſtole her Bible,</hi> (as he confeſſed to her afterwards.) This <hi>Bible</hi> he ſold for three ſhillings to a Maid of <hi>John Downings,</hi> who lives near the <hi>Heath-Forge,</hi> not far from the place where he ſtole it. By which means, not long after, <hi>Humphrey Babb</hi>'s Wife heard of her Bible, demanded it of the Maid that bought it, and making her ſome allowance toward what ſhe paid for it, received it again long before either of them ſaw him, or heard what was become of him: But this being noiſed in the Country thereabouts, one <hi>Henry Evans</hi> told his Father <hi>Thomas Evans</hi> (commonly called <hi>Painter</hi>) who lives near <hi>Henly</hi> or <hi>Himley</hi> (they both knew him) what <hi>John Duncalf</hi> had done: at which the ſaid <hi>John Duncalf,</hi> when he heard of it, was ve<g ref="char:EOLhyphen"/>ry angry, and gave out threatning words againſt the young man; but being charged with it by them, he did not only deny it with ſome fierceneſs, but execrated and curſed himſelf, <hi>wiſhing his hands might rot off,</hi> if that were true (as the ſaid <hi>Thomas Evans</hi> teſtifies) and <hi>John Bennet</hi> his Keeper, ſaith, he often heard him ſay to Gentlemen that viſited him in his ſickneſs, that he did ſo curſe himſelf upon that oc<g ref="char:EOLhyphen"/>caſion
+<pb n="4" facs="tcp:98458:5"/>
+to <hi>Thomas Evans.</hi> And this he acknowledg<g ref="char:EOLhyphen"/>ed of his own accord, to me and many others, ſeve<g ref="char:EOLhyphen"/>ral times, when he ſeemed moſt ſerious and in ear<g ref="char:EOLhyphen"/>neſt <hi>[That he ſo curſed himſelf, and that immediately upon the execration or curſing of himſelf, he had an in<g ref="char:EOLhyphen"/>ward horror or trembling upon him, a dread and fear of the Divine Majeſty, and Juſtice of God, which fear and working of his Conſcience continued more or leſs many days after.]</hi>
+            </p>
+            <p>When I asked him (upon this ingenious acknow<g ref="char:EOLhyphen"/>ledgment) <hi>why he did not confeſs his wickedneſs, and endeavour that the Bible might be reſtored to the owner?</hi> his anſwer was, <hi>[That the Devil and his own heart would not ſuffer him.]</hi> Yet this he acknowledged to me <hi>[That within a few days after that execration his fleſh began to look black at the wriſts of his hands, and ſo continued divers weeks before it did ſenſibly rot.]</hi> He went then and wrought with one <hi>Thomas Osborn</hi> a Joyner in <hi>Dudley,</hi> and (as <hi>Osborn</hi> ſaith) continued with him about a fortnight (Shrovetueſday being the laſt day as he well remembers) and that it was the laſt work that ever he did; which I cannot won<g ref="char:EOLhyphen"/>der at, conſidering what this poor man ſaid to me concerning himſelf in reference to that time, <hi>viz. [After I had curſed my ſelf about the Bible, I wrought with a</hi> Joyner <hi>at</hi> Dudley; <hi>but at that time I had a fear and trembling upon me, which frequently troubled me, and made me have no great mind to work; and ſo feeling my ſelf weak and faint, and fearing an Ague or Fever, I went towards my acquaintance, but in the way finding I was unable to go any further, I laid my ſelf down in a Barn (at</hi> Parton-Hall <hi>as I remember) belonging to Sir</hi> Walter Wroteſeley, <hi>and there continued two days and nights before I was found]</hi> (ſome ſay he ſaid (at o<g ref="char:EOLhyphen"/>ther times) from <hi>Tueſday</hi> night to <hi>Friday</hi> morning.) Being found, he was kept at the charge of the Pariſh of <hi>Tettenbal</hi> (in which <hi>Parton-Hall</hi> ſtands) until
+<pb n="5" facs="tcp:98458:5" rendition="simple:additions"/>
+the next monthly meeting of the <hi>Juſtices</hi> of the Peace, who (<hi>March</hi> 27. 1677.) by examination finding <hi>Kings-Swinford</hi> to have been the laſt place of his ſettlement, made an order he ſhould be carried thither, and maintained by that Pariſh. There he was received, <hi>March</hi> 28. and <hi>John Bennet</hi> appointed to take care of him: firſt in a Barn belonging to the <hi>three Crowns,</hi> (an Inn ſtanding on the Road between <hi>Wolverhampton</hi> and <hi>Kidderminſter</hi>) and after one fortnight removed by the Overſeers for the Poor, to the dwelling houſe of the ſaid <hi>John Bennet</hi> his Keep<g ref="char:EOLhyphen"/>er in <hi>Wall-Heath-ſide.</hi> His fleſh at firſt began to riſe in great lumps or knots at the wriſts of his hands, and at his knees (as his Keeper tells me) and after a little time to break and run, and ſhortly after to ſhrink from the bones at thoſe places, at which time, white putrid matter came out and ran abundantly, cauſing exquiſite pain and torment to this poor man: And ſo offenſive was the ſmell for ſeveral weeks together, that thoſe who came to viſit him who were not only many hundreds, but, 'tis be<g ref="char:EOLhyphen"/>lieved, thouſands (his Keeper and Neighbours ſay many thouſands) were not able to abide in the room with him, nor ſtand near without the door, except they had herbs or other things at their mouths and noſes to ſmell to. The Viſitants being ſo numerous at all times of the day, eſpecially on the Lords-days, it ſeemed to give him great diſtur<g ref="char:EOLhyphen"/>bance, and made him very unwilling to talk many times, or anſwer them any thing. They moved him once ſo far to impatience, when they crowded about him each with a queſtion, having Herbs, and other things at their Noſes, that his paſſion made him to forget his own condition, and wiſh <hi>their Noſes might rot off</hi> (as divers there preſent aſſured me;) for which I gently, but ſeriouſly, reproved him at my next viſit. He ſeemed to take the reproof well, ac<g ref="char:EOLhyphen"/>knowledging
+<pb n="6" facs="tcp:98458:6"/>
+the fault of his paſſionate expreſſions towards them (provoked as he ſaid, by their crowd<g ref="char:EOLhyphen"/>ing, impertinent curioſity, and fooliſh queſtions; or to that effect:) But he had forgot, or would not confeſs, that he uſed thoſe words,—about <hi>their No<g ref="char:EOLhyphen"/>ſes rotting off.</hi>]</p>
+            <p>But his Keeper tells me, he would often be very impatient towards the multitude, and call to him, ſaying, <hi>John, why doſt thou not daſh out their teeth? doeſt thou not ſee how they grin at me?</hi> and the like.</p>
+            <p>About the twentieth of <hi>April</hi> many little Worms came out of the rotten fleſh, ſuch as are uſually ſeen in dead Corpſes (as his Keeper told me) but after he was well waſhed and cleanſed, thoſe ceaſed, and the room and ſmell was nothing ſo offenſive as for<g ref="char:EOLhyphen"/>merly: yet all that while (though it was rumor'd in the Country) he would never confeſs his execra<g ref="char:EOLhyphen"/>tion, and wiſhes againſt himſelf, until his Keeper de<g ref="char:EOLhyphen"/>nied to eaſe him of the Vermin, Lice, <hi>&amp;c.</hi> that fil<g ref="char:EOLhyphen"/>led his ſhirt and doublet, and continually tormen<g ref="char:EOLhyphen"/>ted him. He then firſt promiſed, that if his Keep<g ref="char:EOLhyphen"/>er would cut them off and cleanſe him, (he had long before cut off all the hair of his head) he would acknowledg the whole truth, which he then did in manner as is before related.</p>
+            <p>And now he began to beg inſtruction, and help to repent, and that ſome Miniſters and others, who came to viſit him, would pray for and with him, which many did, both publick Preachers and others, at ſeveral times; and ſome who lived near him (as I did) often. Being asked by me what he deſired might be begged of God for him, he returned an<g ref="char:EOLhyphen"/>ſwer to this purpoſe: <hi>That God would give him repentance, and pardon his ſins above-mentioned,</hi> viz. <hi>Idleneſs, Stealing, Lying, Curſing, Swearing, Drunken<g ref="char:EOLhyphen"/>neſs, unclean Thoughts, and conſtant Prophaneneſs,</hi> &amp;c.
+<pb n="7" facs="tcp:98458:6" rendition="simple:additions"/>
+               <hi>that he would ſave him for Chriſts ſake, and give him patience in the mean time.</hi>] I did accordingly endea<g ref="char:EOLhyphen"/>vour to repreſent his caſe before God, and with humble earneſtneſs to pray for mercy for him; and he ſeemed at that time to be ſomewhat affected with the Prayer, <hi>&amp;c.</hi>
+            </p>
+            <p>It was about this time, if I miſtake not, that he ſent for <hi>Humphrey Babb</hi>'s Wife, from whom he ſtole the Bible, ſhe came and brought the Maid he ſold it to, along with her: to them he confeſſed the wrong he had done, and deſired they would forgive him; which the Wife told me ſhe did heartily, and prayed God to forgive him as ſhe did. The Maid ſeemed to be of the ſame mind and Chriſtian temper.</p>
+            <p>Very many (as I hinted before) hearing of him, came from all parts adjacent, and ſome from places far diſtant, to ſee this ſad ſpectacle of Divine Ju<g ref="char:EOLhyphen"/>ſtice: and amongſt the reſt, ſome of the <hi>Romaniſts,</hi> one of which, he and his Keeper ſuppoſed to be a <hi>Prieſt</hi> of that profeſſion, who was earneſt with him to renounce his Religion, and become a <hi>Catholick</hi> (as he called it) and they would remove him, take care to heal his Sores, and (ſaid the man, whom they ſuppoſed to be the Prieſt) <hi>I will pawn my ſoul for thine, that thou ſhalt be ſaved:</hi>
+               <note place="margin">☜</note> which I am informed, is an ordinary form of ſpeech amongſt the <hi>Papiſts</hi> of this Countrey, when they would perſuade men to their party. When I enquired of this poor man (to try him) <hi>why he did not accept of their offers?</hi> he an<g ref="char:EOLhyphen"/>ſwered to this purpoſe, <hi>[To what end? How can he pawn his ſoul for mine? none can ſave me but Chriſt.]</hi>
+            </p>
+            <p>Others who had occaſion to travel this way from <hi>London,</hi> and other parts far off, Weſt and North, vi<g ref="char:EOLhyphen"/>ſited him, we hope not to ſatisfie their curioſity ſo much, as to behold a monument of Divine ſeverity, and that they might bear witneſs, that <hi>although ſen<g ref="char:EOLhyphen"/>tence againſt an evil work is not always executed ſpeedily,</hi>
+               <pb n="8" facs="tcp:98458:7"/>
+yet, <hi>God leaves not himſelf without witneſs,</hi> in this, as well as former ages, againſt Atheiſm and grand impiety.</p>
+            <p>Upon the eighth of <hi>May</hi> following, both his legs were fallen off at the knees, which the poor man perceived not until his Keeper told him and ſhewed them to him, holding them up in his hands, and his right hand, hanging only by ſome ligament, by a little touch of a knife, was taken off alſo: The other hand at the ſame time being black as a ſhooe, and not much unlike, in the fancy of ſome, for roughneſs and hardneſs, to the outſide of a dried Neats-tongue. This hand hanged on a long time after<g ref="char:EOLhyphen"/>wards by ſome ſuch thing as the former, and might ('tis poſſible) have continued in that manner until his death, if he had not deſired his Keeper to take that away alſo as the former, becauſe it was troubleſome to him. Now although putrid matter frequently iſ<g ref="char:EOLhyphen"/>ſued out at thoſe places, yet he had not ſo much pain as he had formerly for a <hi>month</hi> or <hi>ſix weeks,</hi> as he freely confeſſed; and acknowledged that his ſto<g ref="char:EOLhyphen"/>mach was good, and did digeſt ſuch meats as he took, and that he had evacuations by ſiege and urine, as heretofore in his health.</p>
+            <p>So that, continuing in this condition ſome weeks, many began to think the Iſſues might be ſtopped, and his life preſerved many years, if regularly or<g ref="char:EOLhyphen"/>dered. Some of the Pariſhioners were moved in it, that Phyſicians and Surgeons might be conſulted, and good advice taken in the caſe; but I cannot learn that any thing was done about it, being judg<g ref="char:EOLhyphen"/>ed, by ſome, incurable. It is ſaid that he expreſſed himſelf to ſome that viſited him in this manner. [That <hi>now the curſe wherewith he had curſed himſelf being fully come to paſs (in that his hands were rotted off) he was perſuaded it would go no further.</hi>] But he forgot that God puniſhed him, not for that ſin only,
+<pb n="9" facs="tcp:98458:7" rendition="simple:additions"/>
+but, for all his great tranſgreſſions (though for that chiefly) as he formerly confeſſed to me, he believed. At laſt his fleſh began to waſt, and his ſpirits to fail; ſo that viſiting him again, and obſerving ſome change in his fleſh and countenance more than for<g ref="char:EOLhyphen"/>merly, I laboured to convince him more fully of his condition, and to perſuade him to look up to the great Phyſician, in whoſe hands are the iſſues of life and death, <hi>&amp;c.</hi> He ſeemed to give diligent at<g ref="char:EOLhyphen"/>tention, and earneſtly deſired me to pray with him; after prayers, when I was about to leave him for that time, he deſired I would not forget him in my prayers; making it alſo his earneſt requeſt, that I would come again when ever he ſhould ſend for me, which I promiſed I would at any hour day or night. This was <hi>June</hi> 16. and on the 19. (as his Keeper ac<g ref="char:EOLhyphen"/>knowledgeth) he was in great anguiſh and trouble of mind, crying out <hi>[What ſhall I do to ſave my poor ſoul?]</hi> with many other expreſſions to the ſame pur<g ref="char:EOLhyphen"/>poſe; being very ſick, and fearing his approaching death. But upon what account his Keeper would not ſend for me (in whoſe hearing he ſo earneſtly deſired me to come to him) he knows beſt, and muſt anſwer it, if it was his fault for private reſpects, as is conjectured. On <hi>June</hi> 21. in the morning, I went again to viſit him, unſent for, but found him un<g ref="char:EOLhyphen"/>ſenſible, and paſt any further advice. I ſtaid by him until almoſt noon. He lay ſtill, with his eyes fixed, as a dying man, moved not at any thing we ſaid to him, but upon pouring into him a little drink with a ſpoon at ſeveral times, he coughed a little, and groaned, and then lay as before. When I ſaw there was no probability he would underſtand any thing I ſaid, I left him (after prayer made for him with the company there preſent, in the houſe) and had notice brought me, that he died about two hours after my departure from him.</p>
+            <p>
+               <pb n="10" facs="tcp:98458:8"/>Before I ſum up the whole of this Narrative, and account of his condition, I judge it may be accept<g ref="char:EOLhyphen"/>able to the Reader to inſert ſome ſhort Obſervations, communicated to me by an ingenious Gentleman, our Neighbour, who ſeveral times viſited him in his affliction. Take them therefore in his own words.</p>
+            <p>
+               <q>When I firſt ſaw this young man (which was quickly after he was brought into <hi>Kings-Swinford</hi>) he appeared to me to be of a vigorous ſtate of body, and of an healthy conſtitution, ſaving the ſtrange defect under which he laboured, his hands and legs being then deprived of ſenſe and motion. I ob<g ref="char:EOLhyphen"/>ſerved them, and handled him: They were from both wriſts and knees blackiſh and dying; and I took notice, that about each wriſt and knee there was as it were a <hi>Circle</hi> at the joynt that divided the ſound from the dying parts, and ſeemed like a ligature, prohibiting any nouriſhment to paſs thoſe bounds; ſo that the blood and ſpirits being won<g ref="char:EOLhyphen"/>derfully ſtopped in their circulation, it muſt ne<g ref="char:EOLhyphen"/>ceſſarily follow, that the parts thus deprived of their wonted ſupply, muſt wither and die as a leaf in Autumn: which ſad progreſs they made till both hands and legs from the wriſts and knees be<g ref="char:EOLhyphen"/>came dead and dried, black and hard, like Mum<g ref="char:EOLhyphen"/>my, before they fell off at the joynts, which they afterward did. I alſo obſerved, that at the firſt, above each of the forementioned circles, there brake out a ſore, at which the nouriſhing juyce (deſigned by nature to have fed thoſe parts) em<g ref="char:EOLhyphen"/>ptied it ſelf (now in thoſe ſores corrupted) in a <hi>quitture</hi> or <hi>ſanies,</hi> ſo horribly ſtinking, that few of his Viſitants could well endure the room without ſome ſtrong ſmelling defenſative. But viſiting him after thoſe dead limbs were fallen from the body (all but one hand which was almoſt ſevered) I ſaw the joynts with the fleſh look well and heal<g ref="char:EOLhyphen"/>thy.
+<pb n="11" facs="tcp:98458:8" rendition="simple:additions"/>
+They ſeemed to me free and untouch'd by the former mortification, being quick and ſenſi<g ref="char:EOLhyphen"/>ble, that now the fellow complained upon the leaſt touch thereof, yet ſeeming to promiſe an ea<g ref="char:EOLhyphen"/>ſie cure, for that ichorous ſtinking humor was gone; the fleſh was raw, but ſweet, and here and there beſmeared with a thick corrupt <hi>pus,</hi> an en<g ref="char:EOLhyphen"/>couraging ſign (ſay Artiſts) that ſores incline to healing: But this poor creature wanting all help from Art or Medicine, ſave what the application of the leaves of Mullein afforded, which by his Keeper were uſed to defend the raw parts; in ſome weeks there iſſued the like thin and ſtinking hu<g ref="char:EOLhyphen"/>mor as before, which ſoon put a period to his life.</q> 
+               <hi>So far my Friend.</hi>
+            </p>
+            <p>As to the young man himſelf, he was (as he told me a few days before he died) about <hi>twenty two</hi> years of age. It was eaſie to obſerve, he had been a ſtrong young man, naturally of a ſtubborn tem<g ref="char:EOLhyphen"/>per, much hardened by evil courſes; yet he ſeemed ſometimes to be affected with his condition, the diſ<g ref="char:EOLhyphen"/>courſes made to him, and prayers with him; and I wiſh I might have had from him as clear an evidence of a comfortable change wrought in him, as I would gladly have told the world. I muſt in charity leave his final condition to God, who thus afflicted and chaſtized him for the ſpace of near about <hi>four months,</hi> that he might be a ſignal ſpectacle to thouſands, of Gods diſpleaſure againſt impiety.</p>
+            <p>The ſum of all is this, That a ſtrong, luſty, young man, as moſt in the County where he was born, being unfaithful to God and his Maſter, and giving himſelf to licentiouſneſs and wickedneſs, was brought to a morſel of bread; and by doing evil and denying it with execrations, had a ſting and ſe<g ref="char:EOLhyphen"/>cret remorſe in his conſcience, by which, and want (the fruit of his idleneſs and intemperance) he
+<pb n="12" facs="tcp:98458:9"/>
+grew faint and weak, and his hands waxed feeble: not being able to work, deſigned to betake himſelf to his Friends, but was ſtopped by the way, forced to lie down under the hand of God, that the <hi>Curſe</hi> wherewith he had curſed himſelf might <hi>come upon him;</hi> and ſo by the ſtupendious providence of God he was made a ſpectacle to the world of Divine ſe<g ref="char:EOLhyphen"/>verity many weeks, that others might <hi>ſee, and hear, and fear, and do no more wickedly.</hi> And I wiſh, God may have no reaſon to ſay to any, (as by the Apo<g ref="char:EOLhyphen"/>ſtle in another caſe,<note n="*" place="margin">Acts 13.41.</note>)—<hi>Behold ye deſpiſers, and won<g ref="char:EOLhyphen"/>der and periſh: for I work a work in your days, which you ſhall in no wiſe believe, though a man declare it unto you.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:98458:9" rendition="simple:additions"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>Being requeſted by Mr.</hi> Illing<g ref="char:EOLhyphen"/>worth <hi>to give you an account of what I am able to ſay concerning</hi> John Duncalf, <hi>I apprehend the beſt way is by a bare and brief</hi> Narrative <hi>of that diſ<g ref="char:EOLhyphen"/>courſe that paſſed between us whilſt I was with him; if there is any thing worth your cogni<g ref="char:EOLhyphen"/>zance, you may make uſe of it as you pleaſe.</hi>
+            </p>
+            <p>Our Diſcourſe was as followeth.</p>
+            <p>
+               <hi>May</hi> 1ſt 1677.</p>
+            <p>Queſt. <hi>SPeaking to him of the deplo<g ref="char:EOLhyphen"/>rableneſs of his Condition, and that ſure there was a more than ordi<g ref="char:EOLhyphen"/>nary hand of Gods Providence in it ariſing from ſome evil act or actions of his.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:98458:10" rendition="simple:additions"/>
+               <hi>Anſw.</hi> Anſwered yes, 'twas for his ſins.</p>
+            <p>Queſt. <hi>When I told him that ſin was generally the procuring Cauſe of every mans ſufferings; but under ſuch remar<g ref="char:EOLhyphen"/>kable and dreadful ſufferings as theſe were, there is uſually one or more ſpecial ſins to be inquired after, as the neareſt procuring Cauſe or Cauſes.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> He anſwered yes; ſo it was in his caſe. He ſtole a Bible from a Woman, and being charged with it, denied it with this fearful wiſh, <hi>[That his Hands might rot off if he ſtole it.]</hi>
+            </p>
+            <p>Queſt. <hi>Then I asked him, whether his hands began to blacken, or change Colour, or tingle,</hi> &amp;c. <hi>preſently after the impre<g ref="char:EOLhyphen"/>cation, or that fearful wiſh of his?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Anſwer'd no; but his Con<g ref="char:EOLhyphen"/>ſcience tingled ſadly.</p>
+            <p>Queſt. John, <hi>how long was it e're your hands began to rot, or had any ſigns of putrefaction upon them after the Curſe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> About a fortnight.</p>
+            <p>
+               <pb facs="tcp:98458:10"/>Queſt. <hi>Have you made your peace with God for ſo great an offence?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> [Being a man not apt to ſpeak, and ignorant withal] made little anſwer, only ſhaked his head.</p>
+            <p>Queſt. <hi>Have you asked the Woman forgiveneſs, and to your power endeavour<g ref="char:EOLhyphen"/>ed to make ſatisfaction; or if the Bible were in your hands, to make Reſtitution?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Yes, he did ſend for her, and ſhe came accordingly, and pray<g ref="char:EOLhyphen"/>ed God forgive him, for ſhe did.</p>
+            <p>Queſt. John, <hi>canſt pray? I have not found in thee any motions or inclinations thereunto ſince I came.</hi>
+            </p>
+            <p>Shakes his head again, and nothing he ſaid.</p>
+            <p>Queſt. John, <hi>doſt thou know how at ſo great a diſtance as ſin hath made thee, to go to the Father?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Yes, by Jeſus Chriſt, whi<g ref="char:EOLhyphen"/>ſpering it ſoftly, yet ſo as I might hear him.</p>
+            <p>Queſt. <hi>Then fearing he did not under<g ref="char:EOLhyphen"/>ſtand what Chriſt hath done for the World, I very briefly opened to him the Tenor and
+<pb facs="tcp:98458:11" rendition="simple:additions"/>
+Conditions of the Covenant of Grace, and ſo how he muſt expect Mercy at the hands of God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Then (ſo far as I could gueſs) he began ſomewhat to relent, for the Tears trickled down his cheeks, and many Symptoms of conviction and ſorrow ſeemed to be upon him; ſay<g ref="char:EOLhyphen"/>ing theſe words, or to this purpoſe: For Gods ſake, Sir, pray for me.</p>
+            <p>Queſt. John, <hi>I am glad to ſee ſome, though the leaſt tokens of penitence in thee — The Lord enlarge thine heart, and make thy Conſcience tender — I am willing,</hi> John, <hi>to pray for thee, and ſo I perceive is this whole company: But it would be great ſatisfaction to us, if you would acquaint us, what we ſhould more particularly deſire of God on your account.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Good Sir, that my ſins may be pardoned, as loſs of Time, neg<g ref="char:EOLhyphen"/>lect of Duty, and the ſervice of God.</p>
+            <p>Queſt. <hi>Is not Sabbath-breaking one?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> O yes, yes!</p>
+            <p>Queſt. <hi>Have you any thing elſe to ſay?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> No. Then let us pray.—</p>
+            <p>
+               <pb facs="tcp:98458:11"/>Ending with the Lords Prayer, he repeated the Petitions after me, ſay<g ref="char:EOLhyphen"/>ing <hi>Amen,</hi> with ſomewhat an elevated voice; being obſerved to weep ſeve<g ref="char:EOLhyphen"/>ral times whilſt we continued prayer.</p>
+            <p>After which I parted with him, making me to promiſe him the con<g ref="char:EOLhyphen"/>tinuation of my Prayers.</p>
+            <p>About a fortnight after he ſends a Meſſenger to me to tell me he deſired my company again; at which time I made it my buſineſs not ſo much to ask him Queſtions, as to inform him of thoſe Truths that as I thought had a neceſſary conducency to our eternal peace. [Spending ſome hours with him that day, as I could bear the noy<g ref="char:EOLhyphen"/>ſom ſtench that then came from him.] Before I came away that time, which was the laſt time that I ſaw him; his Keeper told me, that a Po<g ref="char:EOLhyphen"/>piſh Prieſt had been with him ſome few days before, earneſtly endeavou<g ref="char:EOLhyphen"/>ring to proſelyte him to their Religi<g ref="char:EOLhyphen"/>on; uſing this Argument: That if he would turn <hi>Roman Catholick,</hi> I will
+<pb facs="tcp:98458:12"/>
+pawn my Soul to thy Soul thou ſhalt be ſaved. But all he could obtain of the poor man, was only this, that he would conſider of it. Then asking <hi>John Duncalf,</hi> whether this was true? He anſwered, Yes. Praying with him, I took my final leave and fare<g ref="char:EOLhyphen"/>well. This is all (worthy Sir) that I know concerning him. I can only add that I am</p>
+            <closer>
+               <signed>Your moſt humble Servant, <hi>JONATH. NEWEY.</hi>
+               </signed>
+               <dateline>
+                  <hi>Kinfare,</hi> 
+                  <date>
+                     <hi>Aug.</hi> 17. 1677.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="supporting_testimony">
+            <pb facs="tcp:98458:12" rendition="simple:additions"/>
+            <p>WE whoſe Names are here<g ref="char:EOLhyphen"/>unto ſubſcribed, living in the Neighbourhood of <hi>Kings-Swinford,</hi> where <hi>John Duncalf</hi> the ſubject of the preceding <hi>Narrative,</hi> whilſt Gods hand was ſo ſeverely up<g ref="char:EOLhyphen"/>on him, for the moſt part reſided; and having moſt of us viſited him and diſcourſed him in that condition, and the reſt of us received frequent Infor<g ref="char:EOLhyphen"/>mations of the Paſſages herein men<g ref="char:EOLhyphen"/>tioned from a multitude of credible Witneſſes; do (in order to the ren<g ref="char:EOLhyphen"/>dring ſo uſeful a <hi>Relation</hi> more credi<g ref="char:EOLhyphen"/>table ſo far as we are known) atteſt, that we judge it to be very exactly and impartially penned in all the par<g ref="char:EOLhyphen"/>ticulars: and eſpecially, in thoſe Paſſages of it which contain the fre<g ref="char:EOLhyphen"/>quent <hi>ſerious acknowledgements</hi> of the mentioned <hi>John Duncalf, (That he did imprecate that Judgment upon himſelf which is here expreſſed, and upon the occaſion here related)</hi> which he made
+<pb facs="tcp:98458:13"/>
+not only in the hearing of the Author, but alſo of moſt of us: as alſo, in the ſubſtance of thoſe that relate the <hi>rotting off of his Hands and Legs</hi> before his death, in the manner herein men<g ref="char:EOLhyphen"/>tioned. And this <hi>atteſtation</hi> we make with no other deſign, but that God may have the glory, and the world the benefit of ſo <hi>Exemplary a Provi<g ref="char:EOLhyphen"/>dence.</hi> For which end we as heartily accompany this <hi>Narrative</hi> with our prayers, as with our hands.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Simon Ford,</hi> D. D.</item>
+                     <item>
+                        <hi>Tho. Wilsby.</hi>
+                     </item>
+                     <item>
+                        <hi>Amb. Sparry.</hi>
+                     </item>
+                     <item>
+                        <hi>John Raynolds.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Mountfort.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Paget.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
